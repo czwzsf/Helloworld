@@ -24,13 +24,13 @@ PlaygroundPage.current.setLiveView(ContentView())
 
 #### 效果图片
 
-<img src="/Users/chenzhewei/Desktop/学习/MarkDown/img/image-20220528220711747.png" alt="image-20220528220711747" style="zoom:50%;" />
+<!-- <img src="/Users/chenzhewei/Desktop/学习/MarkDown/img/image-20220528220711747.png" alt="image-20220528220711747" style="zoom:50%;" /> -->
 
 #### 新建项目来实践
 
 ##### 1.新建项目
 
-![image-20220528224044705](/Users/chenzhewei/Desktop/学习/MarkDown/img/image-20220528224044705.png)
+<!-- ![image-20220528224044705](/Users/chenzhewei/Desktop/学习/MarkDown/img/image-20220528224044705.png) -->
 
 ##### 2.生成一个可以点击按钮并发声的应用
 
@@ -74,5 +74,5 @@ struct ContentView_Previews: PreviewProvider {
 
 ```
 
-<img src="/Users/chenzhewei/Desktop/学习/MarkDown/img/image-20220528230554851.png" alt="image-20220528230554851" style="zoom:50%;" />
+<!-- <img src="/Users/chenzhewei/Desktop/学习/MarkDown/img/image-20220528230554851.png" alt="image-20220528230554851" style="zoom:50%;" /> -->
 
